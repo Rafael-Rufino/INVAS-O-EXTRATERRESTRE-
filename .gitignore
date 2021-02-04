@@ -8,7 +8,8 @@ LICENSE
 *.log
 *.pot
 *.pyc
-5.png
-_config.yml
+5.png/
+_config.yml/
+./.gitignore/
 
 

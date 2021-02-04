@@ -1,10 +1,15 @@
 
+<style>
+    .nome{
+      color: purble;
+      text-align: center;
+    }
 
+</style>
 
 
 <h3 align="center">
-    <h1 styles = "color: purple;">JOGO DESENVOLVIDO EM PYTHON!</h1>  
-    <br>
+    <b class = nome;>JOGO DESENVOLVIDO EM PYTHON!</b>  
 </h3>
 
 
@@ -21,9 +26,9 @@
 
 ## :bookmark: Sobre
 
-O <strong>Invasao Extraterrestre</strong> é um Jogo Desenvolvido em python durante a disciplina de programação de computadores no curso de Tecnologia em análise e desenvolvimento de sistemas.  
+O <strong>Invasao Extraterrestre</strong> é um Jogo desenvolvido em python durante a disciplina de programação de computadores no curso de Tecnologia em análise e desenvolvimento de sistemas.  
 <br/>
-Essa <strong> aplicação </strong> foi construída  durante um evento do WTADS no IFRN, A ideia surgiu do filme perdido em Marte.
+Essa <strong> Jogo </strong> foi construída  durante um evento do WTADS no IFRN, um evento de tecnologia do curso,  a ideia surgiu do filme perdido em Marte.
 
 <br/>
 
@@ -40,10 +45,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :heavy_check_mark: :computer: Resultado Web
 
+[![invasao extraterrestre](https://img.youtube.com/vi/UvRheXfvwRY/0.jpg)](https://www.youtube.com/watch?v=UvRheXfvwRY)
 
-<h1 align="center">
-    [![invasao extraterrestre](https://img.youtube.com/vi/UvRheXfvwRY/0.jpg)](https://www.youtube.com/watch?v=UvRheXfvwRY)
-</h1>
 
 ## :heavy_check_mark: :computer: Video do jogo
 
@@ -60,11 +63,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - ### **Pré-requisitos**
 
   - É **necessário** possuir o **[Python](https://www.devmedia.com.br/guia/python/37024)** instalado na máquina
-  **[Linux](https://python.org.br/instalacao-linux/)**
-  **[Windows](https://python.org.br/instalacao-windows/)**
-  - Também, é **preciso** Pygame uma biblioteca de jogos multiplataform **[Pygame](https://www.pygame.org/download.shtml)** 
+  - **[Linux](https://python.org.br/instalacao-linux/)**
+  - **[Windows](https://python.org.br/instalacao-windows/)**
+  - Também, é **preciso** o Pygame uma biblioteca de jogos multiplataforma **[Pygame](https://www.pygame.org/download.shtml)** 
   - Por fim, é **essencial** ter o **[IDE Pycharm](https://www.jetbrains.com/pt-br/pycharm/download/)** ou
-  instalado de forma global na máquina via Terminal **[Linux]**
+  instalado de forma global na máquina via Terminal **[Linux]
 
 1. Faça um clone :
 
