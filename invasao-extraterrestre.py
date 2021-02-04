@@ -1,4 +1,6 @@
-import pygame, sys
+import pygame
+import sys
+
 
 pygame.init()
 #pygame.joystick.init()
@@ -107,17 +109,6 @@ while True:
         display.blit(tela_menu, (0, 0))
         display.blit(menu_titulo, (628, 430))
 
-
-
-
-
-
-
-
-
-
-
-
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             exit()
@@ -129,8 +120,6 @@ while True:
         font = pygame.font.SysFont("Arial Black", tam)
         texto1 = font.render(msg, True, cor)
         fundo.blit(texto1, [x, y])
-
-
 
 #comando usado para MOVER o objeto pelo teclado
     keys = pygame.key.get_pressed()
@@ -169,13 +158,6 @@ while True:
         else:
             bala2 = inter
  
-
-
-
-
-
-
-
 
 
 #placar
@@ -217,14 +199,6 @@ while True:
           del mostroo[i]
           del mostro_x[i]
           del mostro_y[i]
-
-
-
-
-
-     
-         
-          
 
 
 
