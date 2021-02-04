@@ -7,7 +7,7 @@
 
 </h3>
 
-
+</br>
 
 
 # Índice
@@ -21,9 +21,9 @@
 
 ## :bookmark: Sobre
 
-O <strong>Invasao Extraterrestre</strong> é um Jogo desenvolvido em python durante a disciplina de programação de computadores no curso de Tecnologia em análise e desenvolvimento de sistemas.  
+O <strong>Invasao Extraterrestre</strong> é um Jogo foi desenvolvido em python durante a disciplina de programação de computadores no curso de Tecnologia em análise e desenvolvimento de sistemas.  
 <br/>
-Essa <strong> Jogo </strong> foi construída  durante um evento do WTADS no IFRN, um evento de tecnologia do curso,  a ideia surgiu do filme perdido em Marte.
+Esse <strong> Jogo </strong> foi construído  durante um evento do WTADS no IFRN, evento de tecnologia do curso,  a ideia surgiu do filme perdido em Marte.
 
 <br/>
 
