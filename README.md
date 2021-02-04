@@ -1,15 +1,10 @@
 
-<style>
-    .nome{
-      color: purble;
-      text-align: center;
-    }
-
-</style>
 
 
-<h3 align="center">
-    <b class = nome;>JOGO DESENVOLVIDO EM PYTHON!</b>  
+
+<h3 align="center" style = "color: red;">
+    <b style ="color: purble;">JOGO DESENVOLVIDO EM PYTHON!</b>  
+
 </h3>
 
 
