@@ -3,7 +3,7 @@
 
 
 <h3 align="center" style = "color: red;">
-    <b style ="color: purble;">JOGO DESENVOLVIDO EM PYTHON!</b>  
+    <b style ="color:red;">Invasão Extraterrestre</b>  
 
 </h3>
 
